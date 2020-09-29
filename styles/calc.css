@@ -1,0 +1,41 @@
+table {
+    padding: 10px;
+    border-collapse: collapse;
+}
+
+#required {
+    color:red;
+}
+
+#submit {
+    color: green;
+}
+
+.course {
+    width: 215px;
+}
+
+#content {
+    float: left;
+}
+
+#scale {
+    float:left;
+}
+
+h3 {
+    text-align: center;
+}
+
+table, th, td {
+    border: 1px solid black;
+}
+
+th {
+    width: 25px;
+    padding: 2px;
+}
+
+td {
+    text-align: center;
+}
