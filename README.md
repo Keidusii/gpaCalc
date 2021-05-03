@@ -1,4 +1,5 @@
 # gpaCalc
+http://gpacalculator.keidusii.com
 This is a simple GPA calculator meant for high school classes.
 To use, enter the class name and class grade. The class name is not required.
 If the grade is not entered, the class will not be counted into the calculation.
